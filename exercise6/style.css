@@ -1,0 +1,53 @@
+.div1 {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 90px;
+    border: solid white;
+}
+.div2 {
+    background-color: sandybrown;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 250px;
+    top: 15px;
+    transform: rotate(65deg);
+    border: solid white;
+}
+.div3 {
+    background-color:yellow;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 200px;
+    top: 100px;
+    transform: rotate(50deg);
+    border: solid white;
+
+
+}
+.div4 {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 60px;
+    left: 100px;
+    transform: rotate(40deg);
+    border: solid white;
+
+
+}
+.div5 {
+    background-color: violet;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 50px;
+    left: 20px;
+    transform: rotate(15deg);
+    border: solid white;
+
+}
