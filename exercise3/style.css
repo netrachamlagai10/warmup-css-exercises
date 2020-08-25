@@ -1,3 +1,6 @@
+
+
+
 .div1 {
     background-color: blue;
     height: 100px;
@@ -37,5 +40,16 @@
         top: 75px;
         left: 75px;
         transform: rotate(47deg);
+    }
+    .div5::after{
+        content: "★";
+        color: black;
+        position: absolute;
+        top: 40%;
+        left: 42%;
+        
+
+
+
     
     }
